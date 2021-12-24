@@ -1,2 +1,2 @@
 # odin-recipe
-recipes project 
+recipes project.... its been a shitshow so far but were all going to make it 
